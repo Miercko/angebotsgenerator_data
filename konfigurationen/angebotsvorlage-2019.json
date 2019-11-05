@@ -1,0 +1,16 @@
+{
+  "inhalt": [
+    "#Angebots-Nr",
+    "#Datum",
+    "#Version",
+    "#kundennr",
+    "#anfrage-Datum",
+    "#Telefon",
+    "#e_mail",
+    "#Lieferbedingung",
+    "#überweisung-bis",
+    "#summe",
+    "#bearbeiter"
+  ],
+  "dateiname": "angebotsvorlage-2019"
+}
